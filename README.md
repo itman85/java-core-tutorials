@@ -1,2 +1,2 @@
 # java-core-tutorials
-Java core turotials
+Java core tutorials
