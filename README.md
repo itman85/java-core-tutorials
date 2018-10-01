@@ -1,2 +1,2 @@
 # java-core-tutorials
-Java core tutorials
+Repository for practice Java core 
