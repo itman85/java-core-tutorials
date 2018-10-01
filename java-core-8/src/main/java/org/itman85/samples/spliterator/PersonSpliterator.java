@@ -43,6 +43,7 @@ public class PersonSpliterator implements Spliterator<Person> {
         return lineSpliterator.estimateSize() / 3;
     }
 
+
     @Override
     public int characteristics() {
         return lineSpliterator.characteristics();
